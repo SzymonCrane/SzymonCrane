@@ -1,7 +1,5 @@
-- 👋 Hi, I'm Szymon Żuraw, 21yrs old male from Poland.
-- 👀 I’m interested in new job offers.
-- 🌱 I’m currently learning C#, .NET, JavaScript, React.
-- 💞️ I’m looking to collaborate on any type of project.
+- 👋 Hi, I'm Szymon Żuraw, 23yrs and I come from Poland.
+- 👀 I’m FullStack Developer with .NET and React
 - 📫 How to reach me - szymon.zurawit@wp.pl
 
 <!---
