@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Szymon Żuraw, 23yrs and I come from Poland.
+- 👋 Hi, I'm Szymon Żuraw, 26yrs and I come from Poland.
 - 👀 I’m FullStack Developer with .NET and React
 - 📫 How to reach me - szymon.zurawit@wp.pl
 
